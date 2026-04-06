@@ -1,5 +1,12 @@
 # 📝 Atividade — Fundação do Sistema RPG de Tarefas
 
+## ⚔️ Missão: Arquitetando "The Dev’s Quest" (Task Manager RPG)
+**Contexto:**
+Você foi contratado para projetar o protótipo de um Gerenciador de Tarefas (Task Manager) com temática de RPG. O diferencial deste app é que cada tarefa concluída concede XP (Experiência) ao usuário. Como arquiteto de software, seu trabalho hoje não é apenas codar, mas planejar a estrutura e as regras do sistema.
+
+**Seu Desafio:**
+Utilize uma IA (ChatGPT, Gemini, Claude, etc.) como sua consultora técnica para debater e fundamentar as decisões do projeto. Você deve criar a base documental antes de iniciar a construção do código funcional.
+
 ## Entregáveis
 
 Você deve criar e preencher três documentos essenciais (`.md`) no seu editor de código, utilizando o debate com a IA para guiar suas escolhas:
